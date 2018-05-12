@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2168
     wikipedia: http://en.wikipedia.org/wiki/Brooks_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44908#The-Law-of-Civilization-and-DecayAn-Essay-on-History
 gutenberg_issued: '2014-02-14'
 gutenberg_type: Text
 identifiers:
