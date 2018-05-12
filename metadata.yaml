@@ -1,0 +1,29 @@
+_repo: The-Law-of-Civilization-and-DecayAn-Essay-on-History_44908
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44908-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adams, Brooks
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '2168'
+    url: http://www.gutenberg.org/2009/agents/2168
+    wikipedia: http://en.wikipedia.org/wiki/Brooks_Adams
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Degeneration'
+- !lcsh 'Civilization -- History'
+- !lcc 'D'
+- !lcsh 'History -- Philosophy'
+title: 'The Law of Civilization and Decay: An Essay on History'
+url: http://www.gutenberg.org/ebooks/44908
